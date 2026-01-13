@@ -17,7 +17,7 @@ import com.example.week1.domain.*
 fun homescreen(taskslist: List<Task>){
     var tasks by remember { mutableStateOf(taskslist) }
     Column {
-        Row(modifier = Modifier.padding(top = 20.dp)) { Button(onClick = {
+        Row(modifier = Modifier.padding(top = 22.dp)) { Button(onClick = {
             tasks=filterByDone(tasks, done = true)
         }) {Text(text = "Show only done tasks") }
             Button(onClick = {
