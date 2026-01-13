@@ -1,6 +1,6 @@
 # Mobiiliohjelmointi-natiiviteknologioilla-viikkotehtavat
 ## Week1
-  ### Data Class Task(id:Int,title: String,description : String,priority: Int,dueDate: String,done: Boolean).
+  - Data Class Task(id:Int,title: String,description : String,priority: Int,dueDate: String,done: Boolean).
   - Mock dataa lisätään 6kpl alussa.
 ### Funktiot
   #### Funktiot addTask, toggleDone, filterByDone ja sortByDueDate
