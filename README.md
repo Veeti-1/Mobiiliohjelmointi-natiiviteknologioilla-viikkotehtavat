@@ -8,4 +8,4 @@
       - toggleDone: merkitsee taskin valmiiksi,
       - filterByDone : näyttää vain valmiit taskit,
       - sortByDueDate : järjestää taskit dueDaten: mukaan.
-### Youtube-demo: https://youtu.be/Fk3Q2KpBF2Y
+### Youtube-demo:https://youtu.be/Fk3Q2KpBF2Y
