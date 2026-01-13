@@ -1,6 +1,6 @@
 # Mobiiliohjelmointi-natiiviteknologioilla-viikkotehtavat
 # Week1
-  -Tein Data Class Task(id:Int,title: String,description : String,priority: Int,dueDate: String,done: Boolean).
+  marker::Tein Data Class Task(id:Int,title: String,description : String,priority: Int,dueDate: String,done: Boolean).
   -Mock dataa lisätään 6kpl alussa.
   -Funktiot addTask, toggleDone, filterByDone ja sortByDueDate
   #Funktiot
