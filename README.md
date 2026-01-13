@@ -1,2 +1,11 @@
 # Mobiiliohjelmointi-natiiviteknologioilla-viikkotehtavat
-Mobiiliohjelmointi-natiiviteknologioilla kurssin viikkotehtävät
+## Week1
+  - Data Class Task(id:Int,title: String,description : String,priority: Int,dueDate: String,done: Boolean).
+  - Mock dataa lisätään 6kpl alussa.
+### Kotlin Funktiot
+    - Funktiot addTask, toggleDone, filterByDone ja sortByDueDate
+      - addTask : luo uuden taskin,
+      - toggleDone: merkitsee taskin valmiiksi,
+      - filterByDone : näyttää vain valmiit taskit,
+      - sortByDueDate : järjestää taskit dueDaten: mukaan.
+### Youtube-demo:https://youtu.be/Fk3Q2KpBF2Y
